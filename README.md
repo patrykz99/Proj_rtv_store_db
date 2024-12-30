@@ -1,2 +1,2 @@
 # Proj_rtv_store_db
-Project about rtv store with using MS SQL
+Uni Project for classes about example rtv store with using MS SQL
